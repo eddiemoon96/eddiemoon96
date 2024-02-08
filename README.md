@@ -1,4 +1,6 @@
-Greetings Travelers, I'm Eduardo, Your IT/Cybersecurity Specialist, Welcome to my showcase!
+# Introduction
+<!-- ![logo](https://github.com/Gauravbennywal/Gauravbennywal/blob/main/image.png)-->
+Hi there! 👋 I'm Eduardo, a IT/Cybersecurity Specialist with a passion for Technologly. Welcome to my GitHub profile!
 
 <div align="center">
   <img alt = "coding" width = "400" src = "https://media1.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=ecf05e478x448nsozlvt55g6xlj3zhs8uqug0xgjgoz5945b&ep=v1_gifs_search&rid=giphy.gif&ct=g">
