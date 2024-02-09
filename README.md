@@ -14,6 +14,8 @@
 
 <h2>📄 Certifications:</h2>
 
+- [QUALYS VMDR](https://github.com/eddiemoon96/QualysCert/blob/main/coursecompletion.pdf)
+
 <h2> 🤳 Connect with me:</h2>
 
 
