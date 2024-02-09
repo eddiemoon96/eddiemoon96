@@ -10,7 +10,7 @@
 
  
 - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-- [Active Directory Home Lab](https://github.com/joshmadakor1/AD_PS)
+- [Active Directory Home Lab](https://github.com/eddiemoon96/ActiveDirectoryLab/tree/main)
 
 <h2>📄 Certifications:</h2>
 
