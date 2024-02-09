@@ -15,6 +15,7 @@
 <h2>📄 Certifications:</h2>
 
 - [QUALYS VMDR](https://github.com/eddiemoon96/QualysCert/blob/main/coursecompletion.pdf)
+- [Googel TSF](https://www.coursera.org/account/accomplishments/verify/QYDQ59WAVL3S)
 
 <h2> 🤳 Connect with me:</h2>
 
