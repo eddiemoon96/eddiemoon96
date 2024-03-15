@@ -6,7 +6,7 @@
   <img alt = "coding" width = "400" src = "https://media1.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=ecf05e478x448nsozlvt55g6xlj3zhs8uqug0xgjgoz5945b&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 IT Projects:</h2>
 
  
 - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
