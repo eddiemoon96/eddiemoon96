@@ -14,8 +14,9 @@
 
 <h2>📄 Certifications:</h2>
 
-- [QUALYS VMDR](https://github.com/eddiemoon96/QualysCert/blob/main/coursecompletion.pdf)
+- [CompTIA SEC+](https://www.credly.com/badges/3c51cc3e-1aae-4bb0-b7a7-5ec41714f0fb)
 - [Googel TSF](https://www.coursera.org/account/accomplishments/verify/QYDQ59WAVL3S)
+- [QUALYS VMDR](https://github.com/eddiemoon96/QualysCert/blob/main/coursecompletion.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
